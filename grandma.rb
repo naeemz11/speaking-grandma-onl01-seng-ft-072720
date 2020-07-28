@@ -27,4 +27,4 @@ else
 end
 end
 
-speak_to_grandma("hi")
+speak_to_grandma()
